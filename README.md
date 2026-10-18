@@ -263,7 +263,7 @@ FREE is **$2.00 per 1,000** company URLs. Paid Apify plans receive a lower unit 
 | Free | $2.00 |
 | Bronze | $1.80 |
 | Silver | $1.60 |
-| Gold, Platinum, and Diamond | $1.30 |
+| Gold, Platinum, and Diamond | $0.90 |
 
 `cost = company URLs processed × your plan price per URL`.
 
