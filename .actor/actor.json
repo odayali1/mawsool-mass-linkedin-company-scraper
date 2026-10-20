@@ -23,7 +23,7 @@
   "environmentVariables": {
     "ACTOR_MODE": "mass",
     "CHARGE_EVENT": "company-details",
-    "COMPANY_API_BASE_URL": "http://company-lockup.34.166.92.24.sslip.io",
+    "COMPANY_API_BASE_URL": "https://guest.mawsool.tech",
     "COMPANY_API_KEY": "@mawsoolCompanyApiKey"
   },
   "meta": {
