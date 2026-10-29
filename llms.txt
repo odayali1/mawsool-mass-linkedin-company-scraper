@@ -1,0 +1,26 @@
+# Mass LinkedIn Company Scraper
+
+> Upload a large file of LinkedIn company URLs. The run is resumable, up to 1,000,000 URLs, and each row is the company record.
+
+Mawsool publishes this as an Apify Actor. Starting from $0.90 per 1,000 companies.
+
+## Run
+
+- Apify Actor: https://apify.com/oday/mawsool-mass-linkedin-company-scraper
+- Call: `oday/mawsool-mass-linkedin-company-scraper`
+- API key: https://mawsool.tech/ and https://docs.mawsool.tech/
+- Contact: osama@mawsool.tech, info@mawsool.tech
+
+## Use it when
+
+The company file is too large for a small run.
+
+## Use something else when
+
+You have a few company URLs and you want one detailed record. Use LinkedIn Company Details.
+
+## Page
+
+- Scrape LinkedIn companies in bulk: docs/bulk-linkedin-company-scraper.md
+
+Mawsool is not affiliated with LinkedIn.
